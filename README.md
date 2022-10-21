@@ -1,6 +1,6 @@
 # oreilly_session
 
-GIT collaboration session edited in conflict_1 branch
+GIT collaboration session modifications on conflict_2
 
 Modifications on branch_defs
 Modifications on branch_defs
