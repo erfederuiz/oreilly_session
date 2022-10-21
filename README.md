@@ -12,3 +12,5 @@ Changes on git_flow brach
 Changes on git_flow brach
 Changes on git_flow brach
 Changes on git_flow brach
+
+Changes on git reset move HEAD to a log HASH
