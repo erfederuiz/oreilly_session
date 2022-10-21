@@ -7,3 +7,8 @@ Modifications on branch_defs
 Modifications on branch_defs
 Modifications on branch_defs
 Changes to README on conflict_1
+
+Changes on git_flow brach
+Changes on git_flow brach
+Changes on git_flow brach
+Changes on git_flow brach
